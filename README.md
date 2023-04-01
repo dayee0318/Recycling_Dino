@@ -11,8 +11,8 @@ Make a game inspired by the word _"Cycle"_
 
 Author Information
 ------------------
-- **Developer :** Dayee Lee
-                  Eunkyung Kim
+- **Developer :** 
+  -  **Dayee Lee** | Eunkyung Kim
 - **E-mail :** dy0318m@gmail.com
 
 
@@ -46,47 +46,45 @@ What it does
 4. If the character collect right garbage, you will earn the points.
 
 
-How we built it
+How I built it
 --------------------
 1. ```Unity ```
 2. ```C#```
 
 
-Challenges we ran into
+Challenges I ran into
 --------------------
 1. Player controller: setting up the characters and make it switchable was very challenging.  
-   However, as we already learned and knew about object-oriented programming, we could make it done!
+   However, as I already learned and knew about object-oriented programming, I could make it done!
 
-2. Resources: We tried to make it all by ourselves, and it was a lot of time consuming than we thought. It was also hard to find good resources that gets along with other resources to make a one good game. 
+2. Resources: I tried to make it all by ourselves, and it was a lot of time consuming than I thought. It was also hard to find good resources that gets along with other resources to make a one good game. 
 
 3. First time programming: It was our first time using Unity and C#, so it was challenging learning new tools and developing in a short amount of time.
 
 
-Accomplishments that we're proud of
+Accomplishments that I'm proud of
 -------------------- 
-1. Completed programming!: It is for sure, the first time that we've done this big project in a very short time. We are so proud of ourselves that we've actually made it until the very end! Although there's still a lot of things need to be improved, but we are so proud that we actually made it.
+1. Completed programming!: It is for sure, the first time that i've done this big project in a very short time. I am so proud of ourselves that I've actually made it until the very end! Although there's still a lot of things need to be improved, but I am so proud that I actually made it.
 
-2. Complex programming: This game involved a lot of complex gameplay mechanics, such as different types of garbage and corresponding characters. This required a lot of plannig and programming to ensure that everything worked smoothly, and the fact that we were able to pull it off is definitely an accomplishment.
+2. Complex programming: This game involved a lot of complex gameplay mechanics, such as different types of garbage and corresponding characters. This required a lot of plannig and programming to ensure that everything worked smoothly, and the fact that I was able to pull it off is definitely an accomplishment.
 
-3. The very first development: We used C# and Unity to build this game and it is our first time using Unity and C#!. This is a powerful game development platform that has a bit of a learning curve. We are so glad that we could prove that we are a fast learner, and a enthusiastic programmer!
-
-4. Team work: To finish this complex project, collaboration and communication were essential to complete this on time. We are so proud of ourselves that we were able to work together as a team without any conflicts.
+3. The very first development: I used C# and Unity to build this game and it is our first time using Unity and C#!. This is a powerful game development platform that has a bit of a learning curve. I am so glad that I could prove that I'm a fast learner, and a enthusiastic programmer!
 
 
-What we learned
+What I learned
 --------------------
 1. Crucial techniques ```Communication!```: Effective communication we essential for success in this project. Since it was just two of us in the group and we wokred on every component on the project together most of the time for 24 gours, by keeping each other on the same page and discussing any issues or concerns that arise, we were able to work more cohesively and avoid misunderstandings.
 
-2. C# and Unity: Learning new tolls was really challenging, but it was precious time that we could learn quickly about how to use Unity and C# to make a game.
+2. C# and Unity: Learning new tolls was really challenging, but it was precious time that I could learn quickly about how to use Unity and C# to make a game.
 
-3. Problem-solving: Creating a game involves a lot of problem-solving, from figuring out how to implement certain mechanics to debugging code. By practicing this skill, we were able to become more adept at identifying issues and finding effective solutions.
+3. Problem-solving: Creating a game involves a lot of problem-solving, from figuring out how to implement certain mechanics to debugging code. By practicing this skill, I was able to become more adept at identifying issues and finding effective solutions.
 
 
 What's next for Recycling Dino?
 --------------------
-1. Expanding the game: We can be further developing this game, we could consider expanding it with new stages(levels), characters, kinds of items, as well as provide additional opportunities for education.
+1. Expanding the game: I can be further developing this game, I could consider expanding it with new stages(levels), characters, kinds of items, as well as provide additional opportunities for education.
 
-2. Play-testing and refining: We can conduct playtesting sessions to get feedback on our game from other players.
+2. Play-testing and refining: I can conduct playtesting sessions to get feedback on our game from other players.
 
 3. Adding Start & End scene and add features like start, option, sounds
 
