@@ -11,8 +11,9 @@ Make a game inspired by the word _"Cycle"_
 
 Author Information
 ------------------
-- **Developer :** Dayee Lee, Eunkyung Kim
-- **E-mail :** dy0318m@gmail.com, gracejansk@gmail.com
+- **Developer :** Dayee Lee
+                  Eunkyung Kim
+- **E-mail :** dy0318m@gmail.com
 
 
 What it does
@@ -56,7 +57,7 @@ Challenges we ran into
 1. Player controller: setting up the characters and make it switchable was very challenging.  
    However, as we already learned and knew about object-oriented programming, we could make it done!
 
-2. Resources: We tried to make it all by ourselves, and it was a lot of time consuming than we thought. It was also hard to find good resources that gets along with other resources to make a one good game.
+2. Resources: We tried to make it all by ourselves, and it was a lot of time consuming than we thought. It was also hard to find good resources that gets along with other resources to make a one good game. 
 
 3. First time programming: It was our first time using Unity and C#, so it was challenging learning new tools and developing in a short amount of time.
 
@@ -90,3 +91,5 @@ What's next for Recycling Dino?
 3. Adding Start & End scene and add features like start, option, sounds
 
 4. Adding exit button!!!
+
+
