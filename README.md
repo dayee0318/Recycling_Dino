@@ -1,3 +1,8 @@
+# Check my work from Devpost!
+
+<a href="https://devpost.com/software/recycling-game" target="_blank"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=fff"/>
+
+
 # Recycling Dino Game
 *Won the 3rd prize in CalgaryHacks!!*
 <img src="./img/1.png" height="500">
